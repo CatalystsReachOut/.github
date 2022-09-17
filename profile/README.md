@@ -7,5 +7,5 @@
 </h2>
 
 <h3 align="center">
-We founded this community to help people in order to earn credibility, connections and acquire new skills,<br> while contributing to open source in their way of learning. <br>And the main motto of our community is to create value in society.
+We founded this community to help people in order to earn credibility, connections and acquire new skills,while contributing to open source in their way of learning. <br>And the main motto of our community is to create value in society.
 </h3>
