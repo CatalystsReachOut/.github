@@ -1,8 +1,15 @@
-## <h3 align="center">
-    Hi There
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h3 align="center">
+    Hey, this is us.
+    <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Philip!
 </h3>
+
+<h2 align="center">
+    We founded this community to help people in order to earn credibility, connections and acquire new skills, while contributing to open source.
+    <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+</h2>
